@@ -10,7 +10,7 @@ The visualization would be done in the Tableau Public platform. Since this platf
 
 I wanted to show the trend of member vs casual riders over the span of ten years (2013-2023) on a monthly basis. That amount of data far surpassed the limit of Tableau Public, so I created a program that could batch through each of the monthly data files and extract, calculate, and append key data information into one file that was only 125 KB in size. 
 
-This allowed me to bring in larger, more robust files to observe further data points from 2018 - the year lyft took over, 2020 - the year Covid hit, and 2023 - the most current year.
+This allowed me to bring in larger, more robust files to observe further data points from 2018 - the year Lyft took over, 2020 - the year Covid hit, and 2023 - the most current year.
 
 Below shows my analysis and screenshots of the visualizations I created in Tableau.  
 
